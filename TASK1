@@ -1,0 +1,10 @@
+# TASK-1PF-LAB
+#include <iostream>
+using namespace std;
+
+int main() {
+   cout << "Name:\t\tMohkum Din\n";
+    cout << "Department:\tSCIT\n";
+    cout << "Quote:\t\t\"Knowledge is power.\"\n";
+   return 0;
+}
